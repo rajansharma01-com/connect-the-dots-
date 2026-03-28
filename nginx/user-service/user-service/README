@@ -1,0 +1,9 @@
+# Connect the Dots - Infra Challenge
+
+## Run Project
+docker-compose up --build
+
+## Services
+- /users → User Service
+- /products → Product Service
+- /payments → Payment Service
